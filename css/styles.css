@@ -84,7 +84,6 @@ nav.horizontal ul a:hover {
 }
 
 figure {
-	
 	border-radius: 10px;
 	border-style: solid;
 	border-width: 10px;
@@ -102,9 +101,10 @@ figcaption {
 	color: red;
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 1em;
-	
-	
 }
+
+	
+
 
 aside {
     width: 250px;
