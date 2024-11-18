@@ -52,7 +52,7 @@ nav.horizontal ul {
 }
 
 nav.horizontal ul a {
-	width: 99%;
+    width: 98%;
     padding: 5px;
     color: white;
     text-decoration: none;
@@ -62,6 +62,7 @@ nav.horizontal ul a:hover {
     background: Aquamarine;
     border-radius: 10px;
     color: rgb(0, 0, 0);
+    width: 95%;
 }
 
 #main {
