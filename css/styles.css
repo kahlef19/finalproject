@@ -34,7 +34,7 @@ header {
 }
 
 nav.horizontal {
-	float: left
+	float: left;
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 23px;
 	height: auto;
@@ -52,7 +52,7 @@ nav.horizontal ul {
 }
 
 nav.horizontal ul a {
-	width: 100%;
+	width: 99%;
     padding: 5px;
     color: white;
     text-decoration: none;
@@ -88,7 +88,7 @@ figure {
 	border-style: solid;
 	border-width: 10px;
 	border-style: ridge;
-	margin: 10px auto 5px;
+	margin: 10px auto 10px;
 	width: 26%;
 	float: left;
 	box-shadow: inset rgb(255, 255, 255) 15px 0px 25px,
