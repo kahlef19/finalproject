@@ -1,0 +1,73 @@
+/*
+
+   Author: Kahle Finn
+   Date:   11.16.2024
+
+   Filename:         forms.css
+
+*/
+
+/* Form Layout Styles */
+
+div.formRow {
+	display: flex;
+	flex-flow: row wrap;
+	margin: 10px 0px
+}
+
+div.formRow > * {
+	flex: 1 1 250px;
+}
+
+form#survey {
+	display: flex;
+	flex-flow: row wrap;
+}
+
+form#survey > fieldset {
+	background-color: Aquamarine;
+	border-radius: 20px;
+	flex: 1 1 300px;
+	font-size: 1.2em;
+	padding: 10px;
+	margin: 10px;
+}
+
+/* Legend Styles */
+
+legend {
+	background-color: grey;
+	color: white;
+	padding: 5px;
+	border-radius: 10px;
+}
+
+/* Text Area Styles */
+
+textarea {
+	margin-top: 10px;
+	height: 100px;
+	Width: 95%;
+}
+
+/* Spinner Styles */
+
+
+
+/* Form Button Styles */
+
+div#buttons {
+	text-align: center;
+	width: 100%;
+	
+}
+
+input [type='submit'], input[type'reset'] {
+	font-size: 1.2em;
+	padding: 5px;
+	margin: 15px;
+	
+}
+
+/* Validation Styles */
+
