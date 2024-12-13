@@ -48,7 +48,7 @@ nav.horizontal ul {
     font-weight: bold;
     background-color: hsl(0, 0%, 24%, 0.4);
 	width: 98%;
-	
+	list-style-type: none;
 }
 
 nav.horizontal ul a {

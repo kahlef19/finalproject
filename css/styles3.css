@@ -48,7 +48,7 @@ nav.horizontal ul {
     font-weight: bold;
     background-color: hsl(0, 0%, 24%, 0.4);
 	width: 98%;
-	
+	list-style-type: none;
 }
 
 nav.horizontal ul a {
@@ -134,4 +134,22 @@ footer a:visited {
 
 footer a:hover {
     text-decoration: underline;
+}
+
+table {
+  font-family: Tahoma, Geneva, sans-serif;
+  font-size: 1em;
+  border-collapse: collapse;
+  width:100%;
+  
+}
+
+td, th {
+  border: 5px solid grey;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(odd) {
+  background-color: aquamarine;
 }
